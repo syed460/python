@@ -21,3 +21,6 @@ macBook = MacBook()
 #-----------
 
 # If we have commun attribute in the BASE classes. First it will check from baseclass configured from left to right.
+
+# Dymenshape Problem
+ #-- when we will face while using multiple inheritance
